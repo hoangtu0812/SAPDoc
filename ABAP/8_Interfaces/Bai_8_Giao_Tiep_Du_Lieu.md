@@ -1,4 +1,4 @@
-# 🔌 Giai đoạn 8: Giao Tiếp và Chuyển Đổi Dữ Liệu (Interfaces)
+﻿# 🔌 Bài 8: Giao Tiếp và Chuyển Đổi Dữ Liệu (Interfaces)
 
 **Mục tiêu:** Đưa dữ liệu hàng loạt từ bên ngoài (Excel, Text) vào SAP, hoặc thiết lập cầu nối giao tiếp dữ liệu giữa SAP và các hệ thống khác (Web, Mobile, 3rd party software).
 
@@ -24,3 +24,4 @@
    - Sử dụng Function Module `ALSM_EXCEL_TO_INTERNAL_TABLE` để đọc một file Excel từ máy tính người dùng (chứa 10 mã vật tư).
    - Loop qua dữ liệu Excel và dùng BDC chạy ngầm (`MODE = 'N'`) để tự động tạo 10 vật tư này trong SAP.
    - Trả về màn hình ALV báo cáo kết quả: Vật tư nào tạo thành công, vật tư nào bị lỗi.
+

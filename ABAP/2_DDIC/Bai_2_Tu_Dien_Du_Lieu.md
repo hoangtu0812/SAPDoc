@@ -1,4 +1,4 @@
-# 🗄️ Giai đoạn 2: Từ Điển Dữ Liệu (ABAP Dictionary)
+﻿# 🗄️ Bài 2: Từ Điển Dữ Liệu (ABAP Dictionary)
 
 **Mục tiêu:** Hiểu cách SAP lưu trữ dữ liệu và cách tự tạo bảng trong database thông qua T-Code **SE11**.
 
@@ -34,3 +34,4 @@
 1. Tạo liên kết khóa ngoại (Foreign Key) trường `MABP` của bảng `ZNHANVIEN` trỏ tới bảng `ZBOPHAN`.
 2. Tạo Table Maintenance Generator (T-Code SM30) cho cả 2 bảng.
 3. Vào SM30, thêm 3 bộ phận vào bảng `ZBOPHAN` và 5 nhân viên vào bảng `ZNHANVIEN`.
+

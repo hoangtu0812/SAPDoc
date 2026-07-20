@@ -1,4 +1,4 @@
-# 🧠 Giai đoạn 3: Xử Lý Dữ Liệu (Internal Tables & Open SQL)
+﻿# 🧠 Bài 3: Xử Lý Dữ Liệu (Internal Tables & Open SQL)
 
 **Mục tiêu:** Nắm vững kỹ năng lấy dữ liệu từ Database ra bộ nhớ tạm để tính toán, xử lý. Đây là kỹ năng **quan trọng bậc nhất** của một lập trình viên ABAP.
 
@@ -27,7 +27,7 @@
 ## 💻 Bài tập thực hành
 
 ### 📝 Bài tập 1: Truy vấn bảng Z
-Viết chương trình lấy toàn bộ dữ liệu từ bảng `ZNHANVIEN` (đã tạo ở Giai đoạn 2), đưa vào một Internal Table.
+Viết chương trình lấy toàn bộ dữ liệu từ bảng `ZNHANVIEN` (đã tạo ở Bài 2), đưa vào một Internal Table.
 - Dùng `LOOP AT` để lọc ra những nhân viên thuộc bộ phận "IT" và in tên của họ ra màn hình.
 
 ### 📝 Bài tập 2: Join dữ liệu hệ thống
@@ -35,3 +35,4 @@ Viết chương trình lấy danh sách vật tư từ 2 bảng chuẩn của SA
 - `MARA` (Chứa thông tin vật tư chung: Mã vật tư `MATNR`, Loại vật tư `MTART`).
 - `MAKT` (Chứa mô tả vật tư: Mô tả `MAKTX`).
 - Sử dụng `INNER JOIN` để lấy ra 50 mã vật tư kèm theo mô tả của chúng và in ra màn hình (`WRITE`).
+

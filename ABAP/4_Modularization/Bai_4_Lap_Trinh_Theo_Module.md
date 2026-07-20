@@ -1,4 +1,4 @@
-# 🧩 Giai đoạn 4: Lập Trình Theo Module (Modularization)
+﻿# 🧩 Bài 4: Lập Trình Theo Module (Modularization)
 
 **Mục tiêu:** Chia nhỏ code thành các khối chức năng riêng biệt để dễ quản lý, dễ đọc và có thể tái sử dụng ở nhiều nơi.
 
@@ -27,3 +27,4 @@
 
 ### 📝 Bài tập 2: Tích hợp vào chương trình chính
 Viết một chương trình mới (SE38), tạo màn hình nhập liệu và gọi Function Module `Z_MATH_CALC` vừa tạo bằng lệnh `CALL FUNCTION` để in kết quả ra màn hình.
+

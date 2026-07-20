@@ -1,4 +1,4 @@
-# 🛠️ Giai đoạn 9: Cải Tiến Hệ Thống (Enhancements)
+﻿# 🛠️ Bài 9: Cải Tiến Hệ Thống (Enhancements)
 
 **Mục tiêu:** Học cách can thiệp, thêm logic cá nhân hóa của doanh nghiệp vào quy trình chuẩn của SAP mà **không** làm hỏng code gốc của hãng.
 
@@ -25,3 +25,4 @@
 2. Nhiệm vụ của bạn: Tìm một BAdI phù hợp được kích hoạt lúc lưu Đơn hàng.
 3. Dùng SE19 để tạo Implementation cho BAdI đó.
 4. Viết code logic: Lấy tổng tiền, kiểm tra điều kiện > 1 tỷ, nếu đúng thì phát ra `MESSAGE 'Đơn hàng giá trị lớn, cần phê duyệt!' TYPE 'W'`.
+

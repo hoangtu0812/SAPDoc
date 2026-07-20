@@ -1,4 +1,4 @@
-# Bài 1: Làm quen với ABAP - Ngôn ngữ "linh hồn" của SAP
+﻿# Bài 1: Làm quen với ABAP - Ngôn ngữ "linh hồn" của SAP
 
 Chào mừng bạn đến với bài học đầu tiên về ABAP! Trong bài này, chúng ta sẽ tìm hiểu ABAP là gì một cách đơn giản nhất và thử viết chương trình đầu tiên nhé.
 
@@ -76,3 +76,4 @@ WRITE 'Xin chao ABAP! Day la chuong trinh dau tien cua toi.'.
 - Các chương trình tự viết phải bắt đầu bằng chữ **`Z`** hoặc **`Y`**.
 
 Rất đơn giản phải không? Hẹn gặp bạn ở Bài 2, chúng ta sẽ học về cách tạo biến và tính toán nhé!
+

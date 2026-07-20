@@ -1,4 +1,4 @@
-# 🚀 Giai đoạn 1: ABAP Cơ Bản (ABAP Fundamentals)
+﻿# 🚀 Bài 1: ABAP Cơ Bản (ABAP Fundamentals)
 
 **Mục tiêu:** Làm quen với môi trường code và các cú pháp cơ bản nhất trong SAP.
 
@@ -30,3 +30,4 @@ Viết chương trình máy tính bỏ túi (Cộng, trừ, nhân, chia) nhận 
 ### 📝 Bài tập 2: Bảng cửu chương
 Viết chương trình in ra bảng cửu chương (từ 2 đến 9).
 - Gợi ý: Sử dụng vòng lặp lồng nhau (`DO 8 TIMES` và `DO 10 TIMES`).
+

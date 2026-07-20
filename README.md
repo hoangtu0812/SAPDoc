@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Chao+mung+den+voi+SAPDoc!;Kho+tang+kien+thuc+ABAP+%26+SAP;Tu+co+ban+den+nang+cao" alt="Typing SVG" />
 </div>
 
@@ -30,18 +30,18 @@ Kho lưu trữ này được chia thành 2 phần chính:
 - ⌨️ Các Transaction Code (T-Code) phổ biến và cách sử dụng.
 
 ## 📂 Cấu trúc thư mục học tập (Lộ trình ABAP)
-Các bài học và lộ trình đã được chia nhỏ thành các thư mục tương ứng theo từng giai đoạn. Bạn có thể bấm vào từng giai đoạn để bắt đầu học:
+Các bài học và lộ trình đã được chia nhỏ thành các thư mục tương ứng theo từng Bài. Bạn có thể bấm vào từng Bài để bắt đầu học:
 
-* 📁 **[Giai đoạn 1: ABAP Cơ Bản (Basic)](./ABAP/1_Basic/)**
-* 📁 **[Giai đoạn 2: Từ Điển Dữ Liệu (DDIC)](./ABAP/2_DDIC/)**
-* 📁 **[Giai đoạn 3: Xử Lý Dữ Liệu (Internal Tables & SQL)](./ABAP/3_Internal_Tables/)**
-* 📁 **[Giai đoạn 4: Lập Trình Theo Module](./ABAP/4_Modularization/)**
-* 📁 **[Giai đoạn 5: Báo Cáo Chuyên Nghiệp (ALV)](./ABAP/5_ALV_Reports/)**
-* 📁 **[Giai đoạn 6: ABAP Hướng Đối Tượng (OOP)](./ABAP/6_OOP/)**
-* 📁 **[Giai đoạn 7: Giao Diện & Biểu Mẫu (Screens & Forms)](./ABAP/7_Screens_Forms/)**
-* 📁 **[Giai đoạn 8: Giao Tiếp Dữ Liệu (Interfaces)](./ABAP/8_Interfaces/)**
-* 📁 **[Giai đoạn 9: Cải Tiến Hệ Thống (Enhancements)](./ABAP/9_Enhancements/)**
-* 📁 **[Giai đoạn 10: ABAP Hiện Đại (Modern ABAP)](./ABAP/10_Modern_ABAP/)**
+* 📁 **[Bài 1: ABAP Cơ Bản (Basic)](./ABAP/1_Basic/)**
+* 📁 **[Bài 2: Từ Điển Dữ Liệu (DDIC)](./ABAP/2_DDIC/)**
+* 📁 **[Bài 3: Xử Lý Dữ Liệu (Internal Tables & SQL)](./ABAP/3_Internal_Tables/)**
+* 📁 **[Bài 4: Lập Trình Theo Module](./ABAP/4_Modularization/)**
+* 📁 **[Bài 5: Báo Cáo Chuyên Nghiệp (ALV)](./ABAP/5_ALV_Reports/)**
+* 📁 **[Bài 6: ABAP Hướng Đối Tượng (OOP)](./ABAP/6_OOP/)**
+* 📁 **[Bài 7: Giao Diện & Biểu Mẫu (Screens & Forms)](./ABAP/7_Screens_Forms/)**
+* 📁 **[Bài 8: Giao Tiếp Dữ Liệu (Interfaces)](./ABAP/8_Interfaces/)**
+* 📁 **[Bài 9: Cải Tiến Hệ Thống (Enhancements)](./ABAP/9_Enhancements/)**
+* 📁 **[Bài 10: ABAP Hiện Đại (Modern ABAP)](./ABAP/10_Modern_ABAP/)**
 
 ## 🤝 Hướng dẫn đóng góp
 Nếu bạn muốn đóng góp tài liệu vào kho lưu trữ này:

@@ -1,4 +1,4 @@
-# 🧱 Giai đoạn 6: ABAP Hướng Đối Tượng (ABAP Objects)
+﻿# 🧱 Bài 6: ABAP Hướng Đối Tượng (ABAP Objects)
 
 **Mục tiêu:** Viết code theo tiêu chuẩn hướng đối tượng (OOP). Đây là xu hướng bắt buộc đối với lập trình viên ABAP hiện tại và tương lai.
 
@@ -28,3 +28,4 @@
    - `GET_BALANCE` (Lấy số dư hiện tại).
 4. Viết logic cho hàm Rút tiền: Nếu số tiền rút lớn hơn số dư, ném ra một Exception (Tự tạo một Exception Class `ZCX_INSUFFICIENT_FUNDS`).
 5. Tạo một chương trình SE38, khởi tạo đối tượng từ Class này, thực hiện chuỗi lệnh gửi/rút tiền và in kết quả/thông báo lỗi ra màn hình.
+

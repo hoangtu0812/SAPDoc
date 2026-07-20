@@ -1,4 +1,4 @@
-# 🖥️ Giai đoạn 7: Giao Diện và Biểu Mẫu (Screens & Forms)
+﻿# 🖥️ Bài 7: Giao Diện và Biểu Mẫu (Screens & Forms)
 
 **Mục tiêu:** Thiết kế màn hình thao tác tùy chỉnh (Dialog) cho người dùng và thiết kế các biểu mẫu in ấn như Hóa đơn, Phiếu xuất kho, Bảng lương...
 
@@ -27,3 +27,4 @@
 ### 📝 Bài tập 2: SmartForm Phiếu Mua Hàng
 1. Tạo một SmartForm hiển thị thông tin hóa đơn/phiếu mua hàng (Có logo công ty, thông tin chung, và bảng chi tiết mặt hàng).
 2. Viết một chương trình ABAP gọi SmartForm này, truyền dữ liệu từ Internal Table vào Form để hiển thị (Print Preview).
+
