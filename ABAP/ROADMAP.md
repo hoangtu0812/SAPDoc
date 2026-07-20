@@ -1,4 +1,4 @@
-﻿# Lộ Trình Học ABAP Từ Cơ Bản Đến Nâng Cao
+# Lộ Trình Học ABAP Từ Cơ Bản Đến Nâng Cao
 
 Lộ trình này được thiết kế để dẫn dắt bạn từ một người chưa biết gì về ABAP đến khi có thể tham gia vào các dự án SAP thực tế. Mỗi phần đều đi kèm với các khái niệm cần học và bài tập thực hành.
 
@@ -146,4 +146,24 @@ Mục tiêu: Cập nhật các công nghệ mới nhất của SAP (SAP S/4HANA)
   * AMDP (ABAP Managed Database Procedures).
   * OData Services (T-Code SEGW - Cung cấp API cho các ứng dụng Web/Mobile).
   * Cơ bản về SAP Fiori.
+
+---
+
+## Bài 11: Tiêu Chuẩn Viết Code (ABAP Best Practices)
+Mục tiêu: Giúp bạn viết code sạch, dễ bảo trì, và đúng chuẩn chuyên nghiệp.
+
+* **Kiến thức cần học:**
+  * Quy tắc đặt tên (Naming Conventions) cho biến, bảng, class.
+  * Định dạng code chuẩn (Code Formatting & Pretty Printer).
+  * Phân biệt Good Coding vs Bad Coding (VD: Hardcoding, không check sy-subrc).
+
+---
+
+## Bài 12: Tối Ưu Hóa Hiệu Suất (Performance Tuning)
+Mục tiêu: Đảm bảo chương trình chạy mượt mà, không bị dump hoặc timeout khi xử lý dữ liệu lớn.
+
+* **Kiến thức cần học:**
+  * Tối ưu hóa Database (SQL Tuning): Tránh SELECT trong LOOP, dùng FOR ALL ENTRIES, JOIN.
+  * Tối ưu hóa Internal Table: Dùng BINARY SEARCH, FIELD-SYMBOLS thay vì Work Area.
+  * Sử dụng các công cụ đo lường hiệu suất: ST05, SAT, ATC.
 
