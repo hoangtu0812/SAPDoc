@@ -52,6 +52,7 @@ Các bài học và tài liệu đã được phân chia khoa học thành các 
 * 📁 **[Phân hệ Quản lý Vật tư (MM)](./Modules/3_MM_Quan_Ly_Vat_Tu/)**
 * 📁 **[Phân hệ Bán hàng & Phân phối (SD)](./Modules/4_SD_Ban_Hang_Phan_Phoi/)**
 * 📁 **[Phân hệ Quản trị Nhân sự (HCM)](./Modules/5_HCM_Quan_Ly_Nhan_Su/)**
+* 📁 **[Phân hệ Bảo trì Nhà máy (PM)](./Modules/6_PM_Bao_Tri_Nha_May/)**
 
 ## 🤝 Hướng dẫn đóng góp
 Nếu bạn muốn đóng góp tài liệu vào kho lưu trữ này:
